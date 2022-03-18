@@ -1,0 +1,58 @@
+ 
+.btn{
+    display: inline-block;
+    background: #0fa309;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;  
+    transition: background 0.5; 
+}
+.btn:hover{
+    background: #563434;
+}
+.header{
+    background: radial-gradient(#fff,#ffd6d6);
+}
+.header .row{
+    margin-top: 70px;
+
+}
+.categorias{
+    margin:60px 0;
+
+}
+.col-3{
+    flex-basis: 30%;
+    min-width: 100px;
+    margin-bottom: 30px;
+
+}
+.col-3 img{
+    width: 100%;
+    
+}
+.small-container{
+    max-width: 1080px;
+    margin:auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+ 
+.col-4 img{
+    width: 100%;
+    
+}
+ 
+h4{
+    color: #555;
+    font-weight: normal;
+
+}
+.col-4 p{
+font-size: 14px;
+
+}
+.rating .fa{
+    color: #ff523b;
+}
